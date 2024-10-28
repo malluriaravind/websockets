@@ -6,7 +6,7 @@ This project demonstrates a WebSocket-based client-server architecture that allo
 
 
 
-## Project Overview
+## Overview
 
 The main components of this project include:
 
